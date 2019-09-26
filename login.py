@@ -8,7 +8,7 @@ options.add_argument('--start-maximized')  # 인터넷 창 최대화
 driver = webdriver.Chrome('C:/Users/student.M703/site_login/chromedriver.exe', chrome_options=options)
 
 # url 로딩
-driver.get('http://edu.ssafy.com/')  # site URL
+driver.get('<URL>')  # site URL
 
 assert '<title>' in driver.title  # site 타이틀을 보고 확인 (없어도 상관 없음)
 
