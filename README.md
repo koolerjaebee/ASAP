@@ -7,7 +7,7 @@
 
 ## howto
 
-![1](C:\Users\student.M703\site_login\screenshots\1.png)
+![1](.\screenshots\1.png)
 
 
 
@@ -15,7 +15,7 @@
 
 
 
-![2](C:\Users\student.M703\site_login\screenshots\2.PNG)
+![2](.\screenshots\2.PNG)
 
 
 
@@ -23,7 +23,7 @@
 
 
 
-![3](C:\Users\student.M703\site_login\screenshots\3.PNG)
+![3](.\screenshots\3.PNG)
 
 
 
@@ -31,7 +31,7 @@
 
 
 
-![4](C:\Users\student.M703\site_login\screenshots\4.PNG)
+![4](.\screenshots\4.PNG)
 
 
 
@@ -39,7 +39,7 @@
 
 
 
-![5](C:\Users\student.M703\site_login\screenshots\5.PNG)
+![5](.\screenshots\5.PNG)
 
 
 
@@ -49,7 +49,7 @@
 
 
 
-![6](C:\Users\student.M703\site_login\screenshots\6.PNG)
+![6](.\screenshots\6.PNG)
 
 
 
@@ -57,7 +57,7 @@
 
 
 
-![7](C:\Users\student.M703\site_login\screenshots\7.PNG)
+![7](.\screenshots\7.PNG)
 
 
 
