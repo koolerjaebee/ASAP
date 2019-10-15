@@ -1,11 +1,13 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+# selenium 설치
+
 
 options = webdriver.ChromeOptions()
 options.add_argument('--start-maximized')  # 인터넷 창 최대화
 
 # Chrome 웹 드라이버 생성
-driver = webdriver.Chrome('C:/Users/student.M703/site_login/chromedriver.exe', chrome_options=options)
+driver = webdriver.Chrome('./chromedriver.exe', chrome_options=options)
 
 # url 로딩
 driver.get('<URL>')  # site URL
